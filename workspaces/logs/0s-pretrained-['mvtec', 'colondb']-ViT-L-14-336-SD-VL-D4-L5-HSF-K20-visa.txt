@@ -1,0 +1,125 @@
+25-05-01 11:48:49.450 - INFO: batch_size = 1
+25-05-01 11:48:49.450 - INFO: ckt_path = 
+25-05-01 11:48:49.450 - INFO: epoch = 5
+25-05-01 11:48:49.450 - INFO: exp_indx = 0
+25-05-01 11:48:49.450 - INFO: image_size = 518
+25-05-01 11:48:49.450 - INFO: k_clusters = 20
+25-05-01 11:48:49.450 - INFO: learning_rate = 0.01
+25-05-01 11:48:49.450 - INFO: model = ViT-L-14-336
+25-05-01 11:48:49.450 - INFO: print_freq = 1
+25-05-01 11:48:49.450 - INFO: prompting_branch = VL
+25-05-01 11:48:49.450 - INFO: prompting_depth = 4
+25-05-01 11:48:49.450 - INFO: prompting_length = 5
+25-05-01 11:48:49.450 - INFO: prompting_type = SD
+25-05-01 11:48:49.450 - INFO: save_fig = True
+25-05-01 11:48:49.450 - INFO: save_path = ./workspaces
+25-05-01 11:48:49.450 - INFO: testing_data = visa
+25-05-01 11:48:49.450 - INFO: training_data = ['mvtec', 'colondb']
+25-05-01 11:48:49.450 - INFO: use_hsf = True
+25-05-01 11:48:49.450 - INFO: valid_freq = 1
+25-05-01 11:48:49.450 - INFO: Model name: 0s-pretrained-['mvtec', 'colondb']-ViT-L-14-336-SD-VL-D4-L5-HSF-K20
+25-05-01 11:50:09.175 - INFO: batch_size = 1
+25-05-01 11:50:09.175 - INFO: ckt_path = 
+25-05-01 11:50:09.175 - INFO: epoch = 5
+25-05-01 11:50:09.175 - INFO: exp_indx = 0
+25-05-01 11:50:09.175 - INFO: image_size = 518
+25-05-01 11:50:09.175 - INFO: k_clusters = 20
+25-05-01 11:50:09.175 - INFO: learning_rate = 0.01
+25-05-01 11:50:09.175 - INFO: model = ViT-L-14-336
+25-05-01 11:50:09.175 - INFO: print_freq = 1
+25-05-01 11:50:09.175 - INFO: prompting_branch = VL
+25-05-01 11:50:09.175 - INFO: prompting_depth = 4
+25-05-01 11:50:09.175 - INFO: prompting_length = 5
+25-05-01 11:50:09.175 - INFO: prompting_type = SD
+25-05-01 11:50:09.175 - INFO: save_fig = True
+25-05-01 11:50:09.175 - INFO: save_path = ./workspaces
+25-05-01 11:50:09.175 - INFO: testing_data = visa
+25-05-01 11:50:09.176 - INFO: training_data = ['mvtec', 'colondb']
+25-05-01 11:50:09.176 - INFO: use_hsf = True
+25-05-01 11:50:09.176 - INFO: valid_freq = 1
+25-05-01 11:50:09.176 - INFO: Model name: 0s-pretrained-['mvtec', 'colondb']-ViT-L-14-336-SD-VL-D4-L5-HSF-K20
+25-05-01 11:50:16.844 - INFO: Data Root: training, ['./datasets/mvtec_anomaly_detection', './datasets/CVC-ColonDB']; testing, ./datasets/VisA_20220922
+25-05-01 11:51:51.965 - INFO: batch_size = 1
+25-05-01 11:51:51.965 - INFO: ckt_path = 
+25-05-01 11:51:51.965 - INFO: epoch = 5
+25-05-01 11:51:51.965 - INFO: exp_indx = 0
+25-05-01 11:51:51.965 - INFO: image_size = 518
+25-05-01 11:51:51.965 - INFO: k_clusters = 20
+25-05-01 11:51:51.965 - INFO: learning_rate = 0.01
+25-05-01 11:51:51.965 - INFO: model = ViT-L-14-336
+25-05-01 11:51:51.965 - INFO: print_freq = 1
+25-05-01 11:51:51.965 - INFO: prompting_branch = VL
+25-05-01 11:51:51.966 - INFO: prompting_depth = 4
+25-05-01 11:51:51.966 - INFO: prompting_length = 5
+25-05-01 11:51:51.966 - INFO: prompting_type = SD
+25-05-01 11:51:51.966 - INFO: save_fig = True
+25-05-01 11:51:51.966 - INFO: save_path = ./workspaces
+25-05-01 11:51:51.966 - INFO: testing_data = visa
+25-05-01 11:51:51.966 - INFO: training_data = ['mvtec', 'colondb']
+25-05-01 11:51:51.966 - INFO: use_hsf = True
+25-05-01 11:51:51.966 - INFO: valid_freq = 1
+25-05-01 11:51:51.966 - INFO: Model name: 0s-pretrained-['mvtec', 'colondb']-ViT-L-14-336-SD-VL-D4-L5-HSF-K20
+25-05-01 11:51:59.938 - INFO: Data Root: training, ['./datasets/mvtec_anomaly_detection', './datasets/CVC-ColonDB']; testing, ./datasets/VisA_20220922
+25-05-01 11:53:39.529 - INFO: batch_size = 1
+25-05-01 11:53:39.529 - INFO: ckt_path = 
+25-05-01 11:53:39.529 - INFO: epoch = 5
+25-05-01 11:53:39.529 - INFO: exp_indx = 0
+25-05-01 11:53:39.529 - INFO: image_size = 518
+25-05-01 11:53:39.529 - INFO: k_clusters = 20
+25-05-01 11:53:39.529 - INFO: learning_rate = 0.01
+25-05-01 11:53:39.529 - INFO: model = ViT-L-14-336
+25-05-01 11:53:39.529 - INFO: print_freq = 1
+25-05-01 11:53:39.529 - INFO: prompting_branch = VL
+25-05-01 11:53:39.529 - INFO: prompting_depth = 4
+25-05-01 11:53:39.529 - INFO: prompting_length = 5
+25-05-01 11:53:39.529 - INFO: prompting_type = SD
+25-05-01 11:53:39.529 - INFO: save_fig = True
+25-05-01 11:53:39.530 - INFO: save_path = ./workspaces
+25-05-01 11:53:39.530 - INFO: testing_data = visa
+25-05-01 11:53:39.530 - INFO: training_data = ['mvtec', 'colondb']
+25-05-01 11:53:39.530 - INFO: use_hsf = True
+25-05-01 11:53:39.530 - INFO: valid_freq = 1
+25-05-01 11:53:39.530 - INFO: Model name: 0s-pretrained-['mvtec', 'colondb']-ViT-L-14-336-SD-VL-D4-L5-HSF-K20
+25-05-01 11:53:47.341 - INFO: Data Root: training, ['./datasets/mvtec_anomaly_detection', './datasets/CVC-ColonDB']; testing, ./datasets/VisA_20220922
+25-05-01 11:54:16.088 - INFO: batch_size = 1
+25-05-01 11:54:16.088 - INFO: ckt_path = 
+25-05-01 11:54:16.088 - INFO: epoch = 5
+25-05-01 11:54:16.088 - INFO: exp_indx = 0
+25-05-01 11:54:16.088 - INFO: image_size = 518
+25-05-01 11:54:16.088 - INFO: k_clusters = 20
+25-05-01 11:54:16.088 - INFO: learning_rate = 0.01
+25-05-01 11:54:16.088 - INFO: model = ViT-L-14-336
+25-05-01 11:54:16.088 - INFO: print_freq = 1
+25-05-01 11:54:16.088 - INFO: prompting_branch = VL
+25-05-01 11:54:16.088 - INFO: prompting_depth = 4
+25-05-01 11:54:16.088 - INFO: prompting_length = 5
+25-05-01 11:54:16.088 - INFO: prompting_type = SD
+25-05-01 11:54:16.088 - INFO: save_fig = True
+25-05-01 11:54:16.088 - INFO: save_path = ./workspaces
+25-05-01 11:54:16.088 - INFO: testing_data = visa
+25-05-01 11:54:16.088 - INFO: training_data = ['mvtec', 'colondb']
+25-05-01 11:54:16.088 - INFO: use_hsf = True
+25-05-01 11:54:16.089 - INFO: valid_freq = 1
+25-05-01 11:54:16.089 - INFO: Model name: 0s-pretrained-['mvtec', 'colondb']-ViT-L-14-336-SD-VL-D4-L5-HSF-K20
+25-05-01 11:54:23.577 - INFO: Data Root: training, ['./datasets/mvtec_anomaly_detection', './datasets/CVC-ColonDB']; testing, ./datasets/VisA_20220922
+25-05-01 11:54:47.310 - INFO: batch_size = 1
+25-05-01 11:54:47.310 - INFO: ckt_path = 
+25-05-01 11:54:47.310 - INFO: epoch = 5
+25-05-01 11:54:47.311 - INFO: exp_indx = 0
+25-05-01 11:54:47.311 - INFO: image_size = 518
+25-05-01 11:54:47.311 - INFO: k_clusters = 20
+25-05-01 11:54:47.311 - INFO: learning_rate = 0.01
+25-05-01 11:54:47.311 - INFO: model = ViT-L-14-336
+25-05-01 11:54:47.311 - INFO: print_freq = 1
+25-05-01 11:54:47.311 - INFO: prompting_branch = VL
+25-05-01 11:54:47.311 - INFO: prompting_depth = 4
+25-05-01 11:54:47.311 - INFO: prompting_length = 5
+25-05-01 11:54:47.311 - INFO: prompting_type = SD
+25-05-01 11:54:47.311 - INFO: save_fig = True
+25-05-01 11:54:47.311 - INFO: save_path = ./workspaces
+25-05-01 11:54:47.311 - INFO: testing_data = visa
+25-05-01 11:54:47.311 - INFO: training_data = ['mvtec', 'colondb']
+25-05-01 11:54:47.311 - INFO: use_hsf = True
+25-05-01 11:54:47.311 - INFO: valid_freq = 1
+25-05-01 11:54:47.311 - INFO: Model name: 0s-pretrained-['mvtec', 'colondb']-ViT-L-14-336-SD-VL-D4-L5-HSF-K20
+25-05-01 11:54:54.984 - INFO: Data Root: training, ['./datasets/mvtec_anomaly_detection', './datasets/CVC-ColonDB']; testing, ./datasets/VisA_20220922
